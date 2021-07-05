@@ -1,0 +1,45 @@
+body {
+    background-image: url(../img/background.jpg);
+    padding-left: 100px;
+    padding-right: 100px;
+    background-size: cover;
+    font-family: Verdana;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(220, 220, 220, 0.8);
+}
+
+div {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 15px;
+
+}
+
+h2 {
+    color: orange;
+    text-align: center;
+
+}
+
+.more {
+    font-weight: bold;
+    text-align: right;
+
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+
+}
+
+.last {
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 1px dotted  black;
+
+}
